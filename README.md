@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to our repository dedicated to the cybersecurity! This collection of articles has been written by Software Engineers Ilgaz Şenyüz and Talha Eroğlu, who are both computer engineering students, and our mentor, Okan Yıldız. With 8 years of experience in cyber security and a highly accomplished background as a Software Development Lead, Okan provides valuable guidance to us.
+Welcome to our repository dedicated to the cybersecurity! This collection of articles has been written by Software Engineers Ilgaz Senyuz and Talha Eroglu, who are both computer engineering students, and their mentor, Okan Yildiz. With 8 years of experience in cyber security and a highly accomplished background as a Software Development Lead, Okan provides valuable guidance to us.
 
 Cybersecurity is a crucial field that affects us all in today's increasingly digital world. Our goal is to educate and inform both ourselves and our readers about various aspects of cyber security, from technical details to best practices for staying safe online.
 
@@ -15,4 +15,5 @@ For any questions or suggestions, please feel free to reach out to us. You can f
 - [@okanyildiz](https://www.linkedin.com/in/yildizokan/)
 - [@ilgazsenyuz](https://www.linkedin.com/in/ilgazsenyuz/)
 - [@talhaeroglu](https://www.linkedin.com/in/talha-eroglu/)
+
 
